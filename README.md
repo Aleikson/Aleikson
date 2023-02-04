@@ -1,14 +1,15 @@
 
-## Olá! Eu sou o Alê.
-“As vezes precisamos ir bem fundo dentro de nós para resolver nossos problemas”
+## Hello! My name is Aleikson.
 
-- Contact e-mail: aleikson@hotmail.com
-- Learning <img align="center" alt="TypeScript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+"The problem is not the problem. The problem is your attitude about the problem. Do you understand?" – Pirates of the Caribbean
+
+- 📩 Contact e-mail: aleikson@hotmail.com
+- 🚀 Learning <img align="center" alt="TypeScript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
 ![Aleikson GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleikson&show_icons=true&theme=radical)
 
-### 💻 Tecnologias que uso: 
+### 💻 My technologies: 
 
 <div style="display: inline_block"> 
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
