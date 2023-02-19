@@ -3,7 +3,7 @@
 
 "The problem is not the problem. The problem is your attitude about the problem. Do you understand?" – Pirates of the Caribbean
 
-- 📩 Contact e-mail: aleikson@hotmail.com
+- 📩 Contact e-mail: aleiksonsilva@hotmail.com
 - 🚀 Learning <img align="center" alt="TypeScript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
