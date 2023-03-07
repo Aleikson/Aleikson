@@ -7,7 +7,7 @@
 - 🚀 Learning <img align="center" alt="TypeScript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
-![Aleikson GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleikson&show_icons=true&theme=radical)
+![Aleikson GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleikson&show_icons=true&theme=dracula)
 
 ### 💻 My technologies: 
 
