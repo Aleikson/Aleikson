@@ -1,4 +1,3 @@
-![logo](https://udewise.com/api/file/public/985ca689-f154-4120-8fe5-41b356f81443)
 <div style="text-align: center;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Aleikson;Welcome+to+My+Profile" alt="Typing SVG" /></a>
 </div>
