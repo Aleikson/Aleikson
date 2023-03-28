@@ -6,7 +6,9 @@
 
 *"The problem is not the problem. The problem is your attitude about the problem. Do you understand?" – Pirates of the Caribbean**
 
-- 🚀 I’m currently learning <img align="center" alt="ReactJs" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+- 📚 I’m currently learning <img align="center" alt="ReactJs" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
+
+- 🚀 I'm currently improving <img align="center" alt="ReactJs" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"> 
 
 - 📩 How to reach me: *aleiksonsilva@hotmail.com*
 
