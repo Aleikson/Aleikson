@@ -13,7 +13,7 @@
 - 🚀 I'm currently improving: <img align="center" alt="ReactJs" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"> 
 
 - 📩 How to reach me: *aleiksonsilva@hotmail.com*
-#
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
