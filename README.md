@@ -26,10 +26,10 @@
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;">
   <div style="margin-right:20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aleikson&show_icons=true&theme=dracula" alt="aleikson" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleikson&show_icons=true&theme=dracula" alt="aleikson" />
   </div>
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleikson&show_icons=true&theme=dracula&layout=compact" alt="aleikson" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aleikson&show_icons=true&theme=dracula&layout=compact" alt="aleikson" />
   </div>
 </div>
