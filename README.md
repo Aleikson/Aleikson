@@ -8,9 +8,7 @@
 
 <p align="center"><em>"The problem is not the problem. The problem is your attitude about the problem. Do you understand?" – Pirates of the Caribbean</em></p>
 
-- 📚 I’m currently learning: <img align="center" alt="ReactJs" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
-
-- 🚀 I'm currently improving: <img align="center" alt="ReactJs" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"> 
+- 📚 I’m currently learning: <img align="center" alt="ReactJs" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" /> And <img align="center" alt="ReactJs" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" /> 
 
 - 📩 How to reach me: *aleiksonsilva@hotmail.com*
 
@@ -18,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,html,css,bootstrap,javascript,typescript,jquery,git,firebase" />
+    <img src="https://skillicons.dev/icons?i=linux,md,vscode,html,css,styledcomponents,bootstrap,javascript,react,typescript,jquery,git,firebase" />
   </a>
 </p>
 
