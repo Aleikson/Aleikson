@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header-image.png">
+  <img src="./github-header-image-full.png">
 </p>
 
 <p align="center">
@@ -8,7 +8,12 @@
 
 <p align="center"><em>"The problem is not the problem. The problem is your attitude about the problem. Do you understand?" – Pirates of the Caribbean</em></p>
 
-- 📚 I’m currently learning: <img align="center" alt="ReactJs" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" /> And <img align="center" alt="ReactJs" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" /> 
+- 📚 I'm currently learning: <span style="display: inline-block;">
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" /> 
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" />
+</span>
 
 - 📩 How to reach me: *aleiksonsilva@hotmail.com*
 
@@ -24,10 +29,10 @@
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;">
   <div style="margin-right:20px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleikson&show_icons=true&theme=dracula" alt="aleikson" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aleikson&show_icons=true&theme=dracula" alt="aleikson" />
   </div>
 
   <div>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aleikson&show_icons=true&theme=dracula&layout=compact" alt="aleikson" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleikson&show_icons=true&theme=dracula&layout=compact" alt="aleikson" />
   </div>
 </div>
