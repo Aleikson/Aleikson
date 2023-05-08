@@ -8,12 +8,11 @@
 
 <p align="center"><em>"The problem is not the problem. The problem is your attitude about the problem. Do you understand?" – Pirates of the Caribbean</em></p>
 
-- 📚 I'm currently learning: <span style="display: inline-block;">
-  <img alt="Node" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" /> 
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" />
-</span>
+- 📚 I'm currently learning:
+  <img align='center' alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" />
+  <img align='center' alt="Node" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img align='center' alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
+  <img align='center' alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
 
 - 📩 How to reach me: *aleiksonsilva@hotmail.com*
 
