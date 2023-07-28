@@ -14,7 +14,9 @@
   <img align='center' alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
   <img align='center' alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
 
-- 📩 How to reach me: *aleiksonsilva@hotmail.com*
+- 📩 How to reach me: *aleiksonsilva@hotmail.com*  📫
+
+- 🌐 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/aleikson-frontend/)
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -25,6 +27,16 @@
 </p>
 
 </br> 
+
+**About Me:**
+
+Hello there! 👋 I'm a freelance web developer with a passion for crafting delightful digital experiences. I've been working as a freelancer, turning ideas into reality through clean and efficient code. With a strong foundation in web development, I'm constantly exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
+
+**Portfolio:**
+
+You can explore some of my recent projects in my portfolio. Check it out here: [Portfolio](https://portfolio-aleikson.vercel.app/)
+
+**GitHub Stats:**
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;">
   <div style="margin-right:20px;">
