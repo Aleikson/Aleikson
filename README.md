@@ -22,11 +22,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,md,vscode,html,css,styledcomponents,bootstrap,javascript,react,typescript,jquery,git,firebase" />
+    <img src="https://skillicons.dev/icons?i=linux,md,vscode,html,css,styledcomponents,bootstrap,javascript,react,typescript,jquery,git,firebase,figma" />
   </a>
 </p>
 
-</br> 
+</br 
 
 **About Me:**
 
