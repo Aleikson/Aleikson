@@ -22,19 +22,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,md,vscode,html,css,styledcomponents,bootstrap,javascript,react,typescript,jquery,git,firebase,wordpress,figma" />
+    <img src="https://skillicons.dev/icons?i=linux,md,vscode,html,css,styledcomponents,bootstrap,materialui,javascript,react,typescript,jquery,git,firebase,wordpress,figma" />
   </a>
 </p>
 
 </br>
-
-**About Me:**
-
-Hello there! 👋 I'm a freelance web developer with a passion for crafting delightful digital experiences. I've been working as a freelancer, turning ideas into reality through clean and efficient code. With a strong foundation in web development, I'm constantly exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
-
-**Portfolio:**
-
-You can explore some of my recent projects in my portfolio. Check it out here: [Portfolio](https://portfolio-aleikson.vercel.app/)
 
 **GitHub Stats:**
 
