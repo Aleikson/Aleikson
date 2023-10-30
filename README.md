@@ -28,8 +28,6 @@
 
 </br>
 
-**GitHub Stats:**
-
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;">
   <div style="margin-right:20px;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleikson&show_icons=true&theme=dracula" alt="aleikson" />
