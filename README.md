@@ -8,21 +8,41 @@
 
 <p align="center"><em>"The problem is not the problem. The problem is your attitude about the problem. Do you understand?" – Pirates of the Caribbean</em></p>
 
-- 📚 I'm currently learning:
+<p align="center">📚 I'm currently learning:</p>
+<div align="center">
   <img align='center' alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" />
   <img align='center' alt="Node" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img align='center' alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
   <img align='center' alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+</div>
 
-- 📩 How to reach me: *aleiksonsilva@hotmail.com*  📫
+  <br>
 
-- 🌐 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/aleikson-frontend/)
+- 📩 How to reach me: <a href="mailto:aleiksonsilva@hotmail.com">_aleiksonsilva@hotmail.com_ 📫</a>
+
+- 🌐 Connect with me on LinkedIn: [linkedin.com/aleikson](https://www.linkedin.com/in/aleikson-frontend/)
+
+- 💬 Connect with me on Discord: <a href="https://discord.com/users/Silva%236402">Discord.com/Silva#6402</a>
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,md,vscode,html,css,styledcomponents,bootstrap,materialui,javascript,react,typescript,jquery,git,firebase,wordpress,figma" />
+    <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" alt="Material-UI">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery">
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
+    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
   </a>
 </p>
 
