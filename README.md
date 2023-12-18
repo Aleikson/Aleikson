@@ -20,7 +20,7 @@
 
   <br>
 
-- 📩 How to reach me: <a href="mailto:aleiksonsilva@hotmail.com">_aleiksonsilva@hotmail.com_ 📫</a>
+- 📩 How to reach me: <a href="mailto:aleiksonsilva@hotmail.com">_aleiksonsilva@hotmail.com_</a>
 
 - 🌐 Connect with me on LinkedIn: [linkedin.com/aleikson](https://www.linkedin.com/in/aleikson-frontend/)
 
