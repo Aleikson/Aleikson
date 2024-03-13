@@ -24,6 +24,8 @@
 
 - 💬 Connect with me on Discord: <a href="https://discord.com/users/Silva%236402">Discord.com/Silva#6402</a>
 
+- 🌐 Visiti my portfolio: <a href="https://aleiksons.vercel.app/">aleiksons.vercel.app</a>
+
 <h3 align="center">Languages and Tools:</h3>
 
 [![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://skillicons.dev)
